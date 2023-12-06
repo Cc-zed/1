@@ -27,7 +27,6 @@
 # y = int(input("Enter number two: "))
 # z = int(input("Enter number three: "))
 
-# # Створення числа і виведення результату
 # res = x * 100 + y * 10 + z
 # print("Result: ", res)
 
